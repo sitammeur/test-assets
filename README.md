@@ -1,1 +1,1 @@
-# OCR Evaluation Images
+# Test Assets
